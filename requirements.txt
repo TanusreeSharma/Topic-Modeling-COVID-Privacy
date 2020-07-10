@@ -1,0 +1,5 @@
+gensim
+spacy
+nltk
+pandas
+
